@@ -1,4 +1,4 @@
-import authRoutes from './routes/auth.route'
+import authRoutes from './routes/auth.route.js'
 
 import express from 'express'
 const app = express()
