@@ -1,5 +1,6 @@
 import authRoutes from './routes/auth.route.js'
 
+//EXPRESS
 import express from 'express'
 const app = express()
 
