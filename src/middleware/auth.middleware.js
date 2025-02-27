@@ -19,7 +19,9 @@ export const protectRoute = async (req, res, next) => {
             return res.status(404).json({message:"User no found"})
         }
         req.user = user
+        next()
     } catch (err) {
-        console.log("error in middleware:", err)
+        console.log("error in protect route middleware:", err)
+        return res.status(500).json({message:"internal server error"})
     }
 }
