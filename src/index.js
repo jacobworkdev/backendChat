@@ -2,7 +2,7 @@ import authRoutes from './routes/auth.route.js'
 import express from 'express'
 import 'dotenv/config';
 import { connectDB } from './lib/db.js';
-import {cookieParser} from "cookie-parser"
+import cookieParser from "cookie-parser"
 const PORT=process.env.PORT
 
 //EXPRESS
