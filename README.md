@@ -3,13 +3,13 @@
 #### INSERT 1 SENTANCE SUMMARY OF YOUR APPLICATION/GAME HERE
 <img src="./pics/loginpage.png" alt="the landing page"/>
 landing login page image
-<img src="./pics/examplechat.png" style="width:100vw; height:100vh" alt="example of chat"/>
+<img src="./pics/examplechat.png"  alt="example of chat"/>
 example of chatting feature
 
-<img src="./pics/profileinfo.png" style="width:100vw; height:100vh" alt="profile information"/>
+<img src="./pics/profileinfo.png"  alt="profile information"/>
 profile information and image upload page
 
-<img src="./pics/sendingimageexample.png" style="width:100vw; height:100vh" alt="sendingg pictures example"/>
+<img src="./pics/sendingimageexample.png" s alt="sendingg pictures example"/>
 sending pictures example
 
 ## Description
